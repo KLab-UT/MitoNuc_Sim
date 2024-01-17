@@ -1,0 +1,3 @@
+17 January 2024
+  William installed ubuntu and cloned the git repository
+  This week he will work through the rest of Chapter 4 and move into 5.2.3
