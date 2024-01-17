@@ -1,2 +1,2 @@
 # MitoNuc_Sim
-Playing with SLiM to simulate scenarios similar to mitonuclear coevolution
+Simulate evolutionary scenarios analogous to mitonuclear coevolution
