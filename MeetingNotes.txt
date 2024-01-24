@@ -2,3 +2,18 @@
   William installed ubuntu and cloned the git repository
   This week he will work through the rest of Chapter 4 and move into 5.2.3
   For next week: Show William how to push to main branch and write out project objectives in detail (in ReadMe.md)
+
+24 January 2024
+  William and I identified 3 primary problems to solve for this project:
+	1- Splitting population into sexually reproducing and asexually reproducing lineages
+	2- Create two interacting chromosomes where one can recombine and the other can't
+		NOTE: This is the way it will be in the sexually reproducing populations. 
+	              In the asex repro pops both won't be able to recombine
+	3- Create a measure of fitness from the interaction between the two chromosomes created in 2
+  
+  This week William will address problem 1 above. He will create a SLiM script that:
+	- Starts with a single population
+	- Runs for 1000 generations
+	- Splits off a subpopulation
+	- Sets the new subpopulation as asexually reproducing (using methods in SLiM)
+	- Run for 1000 more generations
