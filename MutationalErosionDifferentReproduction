@@ -1,0 +1,39 @@
+// set up a simple neutral simulation
+initialize() {
+	initializeMutationRate(1e-7);
+	
+	initializeMutationType("m1", 0.5, "f", 0.0);
+	initializeMutationType("m2", 0.5, "e", -0.01);
+	m2.convertToSubstitution = F;
+	
+	initializeGenomicElementType("g1", c(m1,m2), c(1.0,1.0));
+	
+	initializeGenomicElement(g1, 0, 99999);
+	initializeRecombinationRate(1e-8);
+}
+
+// create a population of 500 individuals
+1 early() {
+	sim.addSubpop("p1", 100);
+}
+
+100 early() {
+	sim.addSubpopSplit("p2",100,p1);
+	sim.addSubpopSplit("p3",100,p1);
+	p2.setSelfingRate(1.0);
+	p3.setCloningRate(1.0);
+}
+
+100: early() {
+	meanFitness = mean(p1.cachedFitness(NULL));
+ 	newSize = asInteger(100 * meanFitness);
+	p1.setSubpopulationSize(newSize);
+	meanFitness = mean(p2.cachedFitness(NULL));
+ 	newSize = asInteger(100 * meanFitness);
+	p2.setSubpopulationSize(newSize);
+	meanFitness = mean(p3.cachedFitness(NULL));
+ 	newSize = asInteger(100 * meanFitness);
+	p3.setSubpopulationSize(newSize);
+}
+
+50000 late() { sim.simulationFinished(); }
