@@ -1,7 +1,9 @@
 31 January 2024
   William figured out how to: (A) create scenario where a divergence event leads to an asexually-reproducing lineage and a sexually reproducing lineage and (B) set up the Muller's ratchet scenario.
+  So, problem 1 (described in January 24 meeting notes) is solved!
   -- He actually created three populations: (1) Multiple-mate sexually-reproducing lineage, (2) Selfing sexually-reproducing lineage, and (3) Clonal lineage.
-  -- In the simulation, it appears that selfing 
+  -- The simulation shows an interesting interaction between repro mode and population size over time
+  THIS WEEK: William will read through section 14.5 to see if modeling the Y chromosome wiht psuedo-autosomal regions could be co-opted to model the mitochondrion. The challenge is making sure the mito portion gets inherited by 100% of the offspring (which doesn't occur with the Y chromosome) while still only being transferred by a single parent. However, for now it is okay if the "mito" region is biparentally inherited and simply is a region where no recombination happens.
 
 24 January 2024
   William and I identified 3 primary problems to solve for this project:
