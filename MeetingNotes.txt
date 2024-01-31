@@ -1,7 +1,7 @@
-17 January 2024
-  William installed ubuntu and cloned the git repository
-  This week he will work through the rest of Chapter 4 and move into 5.2.3
-  For next week: Show William how to push to main branch and write out project objectives in detail (in ReadMe.md)
+31 January 2024
+  William figured out how to: (A) create scenario where a divergence event leads to an asexually-reproducing lineage and a sexually reproducing lineage and (B) set up the Muller's ratchet scenario.
+  -- He actually created three populations: (1) Multiple-mate sexually-reproducing lineage, (2) Selfing sexually-reproducing lineage, and (3) Clonal lineage.
+  -- In the simulation, it appears that selfing 
 
 24 January 2024
   William and I identified 3 primary problems to solve for this project:
@@ -17,3 +17,9 @@
 	- Splits off a subpopulation
 	- Sets the new subpopulation as asexually reproducing (using methods in SLiM)
 	- Run for 1000 more generations
+
+17 January 2024
+  William installed ubuntu and cloned the git repository
+  This week he will work through the rest of Chapter 4 and move into 5.2.3
+  For next week: Show William how to push to main branch and write out project objectives in detail (in ReadMe.md)
+
