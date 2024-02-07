@@ -1,3 +1,6 @@
+7 February 2024
+  William thought of the cool idea to create a haploid genome for the mitochondrion by simply replacing one of the genomes in an individual with the other. He is going to look into using the modifychild method to do this, with a focus on the simulate a gene drive section (12.3 in SLiM manual).
+
 31 January 2024
   William figured out how to: (A) create scenario where a divergence event leads to an asexually-reproducing lineage and a sexually reproducing lineage and (B) set up the Muller's ratchet scenario.
   So, problem 1 (described in January 24 meeting notes) is solved!
