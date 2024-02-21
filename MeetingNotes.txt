@@ -1,3 +1,10 @@
+21 February 2024
+  Today we talked about the unisexual vertebrate perspective paper and potentially adding simulated data to it.
+  We also talked about the parameters being used for the simulations, specifically those for fitness of the mutations. William is going to see if he can plot out the distributions being sampled from for Randy's simple mind (Randy wrote this using his simple mind).
+  William also tried making the fitness value for each nuclear mutation a function where the effect (starting fitness vale of the mutation) is raised to the power of the number of mitochondrial mutations. However, this made it so that with deleterious nuclear mutations, any mitochondrial mutation that arose has a deleterious effect on the nuclear mutation. This may present a problem when negative nuclear mutations are fixed before any mitochondrial mutations arise.
+  William is going to tinker with mutation rates to see if he can increase the rate of mitochondrial mutations compared to nuclear mutations.
+  Additionally, I added the dissertation of Manisha Munasinghe to the "Literature" repository, and here is one of her repositories focused on mitonuclear simulting in SLiM: https://github.com/mam737/mito_nuclear_SLiMulations
+
 14 February 2024
   William figured out how to model the mitochondrion by implementing the modifychild method- this takes the maternal mitochondrial genome (the first genome in the SLiM script) and writes over the paternal genome (the second genome in the SLiM script).
   This makes the mito genome both functionally haploid and uniparentally inherited.
