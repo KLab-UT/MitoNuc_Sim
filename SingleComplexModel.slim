@@ -2,6 +2,10 @@
 initialize() {
 	initializeMutationRate(2e-8);
 	
+	defineConstant("reproMode","Herm");
+	
+	if (reproMode == "Sex"){initializeSex("A");}
+	
 	// Neutrals
 	initializeMutationType("m1", 0.5, "f", 0.0);
 	initializeMutationType("m2", 0.5, "f", 0.0);
@@ -28,6 +32,11 @@ initialize() {
 // create a population of 100 individuals
 1 early() {
 	sim.addSubpop("p1", 100);
+	
+	if (reproMode == "Sex"){}
+	else if (reproMode == "Herm"){}
+	else if (reproMode == "Asex"){p1.setCloningRate(1.0);}
+	else if (reproMode == "Self"){p1.setSelfingRate(1.0);}
 }
 
 modifyChild() {
@@ -59,15 +68,22 @@ mutationEffect(m4){return 1.0;}
  	phenotype = nuclearMito*mitoMito;
  	inds.fitnessScaling = 0.0 + 2*dnorm(optimum - phenotype, 0.0, 25.0)/dnorm(0.0,0.0,25.0);
  	
+ 	meanFitness = mean(inds.fitnessScaling);
+ 	
  	// Output
  	if (sim.cycle % 100 == 0){
  		cat(sim.cycle+"\n");
- 		cat("Mean fitness: " + mean(inds.fitnessScaling) + "\n");
+ 		cat("Mean fitness: " + meanFitness + "\n");
  		cat("Mean phenotype: " + mean(phenotype) + "\n");
  		cat("Mean nuclearMito: " + mean(nuclearMito) + "\n");
  		cat("Mean mitoMito: " + mean(mitoMito) + "\n");
  		cat("\n");
  	}
+ 	
+ 	if (abs(2-meanFitness)<0.01){
+	 	cat("End Time: " + sim.cycle);
+ 		sim.simulationFinished();
+ 	}
 }
 
-10000 late() {}
+100000 late() {}
