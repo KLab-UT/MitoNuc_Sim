@@ -1,3 +1,5 @@
+
+
 21 February 2024
   Today we talked about the unisexual vertebrate perspective paper and potentially adding simulated data to it.
   We also talked about the parameters being used for the simulations, specifically those for fitness of the mutations. William is going to see if he can plot out the distributions being sampled from for Randy's simple mind (Randy wrote this using his simple mind).
@@ -10,8 +12,8 @@
   This makes the mito genome both functionally haploid and uniparentally inherited.
   The model as a whole works like this: Baby is born. Baby mutates. Baby is modified. Gametes are formed, and Baby becomes parent.
   Overall we will look at how population size changes between different reproductive modes across time. Additionally, it would be interesting to look at the interaction between repro mode and changes in parameters (recomb rate, mutattion rate, fitness, pop size (initial), mito size, amount of epistasis)
-  
-  Of the three primary problems we described on January 24, William has figured out solutions for problem 1 (different repro modes) and  problem 3 (mitochondrial and nuclear DNA). 
+
+  Of the three primary problems we described on January 24, William has figured out solutions for problem 1 (different repro modes) and  problem 3 (mitochondrial and nuclear DNA).
 
 7 February 2024
   William thought of the cool idea to create a haploid genome for the mitochondrion by simply replacing one of the genomes in an individual with the other. He is going to look into using the modifychild method to do this, with a focus on the simulate a gene drive section (12.3 in SLiM manual).
@@ -27,10 +29,10 @@
   William and I identified 3 primary problems to solve for this project:
 	1- Splitting population into sexually reproducing and asexually reproducing lineages
 	2- Create two chromosomes where one can recombine and the other can't
-		NOTE: This is the way it will be in the sexually reproducing populations. 
+		NOTE: This is the way it will be in the sexually reproducing populations.
 	              In the asex repro pops both won't be able to recombine
 	3- Create a measure of fitness from the interaction between the two chromosomes created in 2
-  
+
   This week William will address problem 1 above. He will create a SLiM script that:
 	- Starts with a single population
 	- Runs for 1000 generations
