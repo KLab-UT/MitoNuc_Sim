@@ -1,4 +1,6 @@
-
+6 June 2024
+  William created a new file that has a toggle ability to change the mitochondrial gene into an autome (it becomes diploid and biparentally inherited). Additionally, he added haploid asex as a second model. This file is called MitoToggle.slim..
+  Now the next challenge is starting the simulation with a number of deleterious mutations that need to be purged to maximize fitness, and seeing how long it takes to do so for the different repro modes.
 
 21 February 2024
   Today we talked about the unisexual vertebrate perspective paper and potentially adding simulated data to it.
