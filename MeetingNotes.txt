@@ -1,6 +1,7 @@
 6 June 2024
   William created a new file that has a toggle ability to change the mitochondrial gene into an autome (it becomes diploid and biparentally inherited). Additionally, he added haploid asex as a second model. This file is called MitoToggle.slim..
-  Now the next challenge is starting the simulation with a number of deleterious mutations that need to be purged to maximize fitness, and seeing how long it takes to do so for the different repro modes.
+  Now the next challenge is starting the simulation with a number of deleterious mutations that are fixed in the mitochondrial genome and need to be compensated for in the nuclear genome, and we measure this by seeing how long it takes to maximize do so for the different repro modes. So for next week, William will see if he can load the mitochondrial genomes with fixed mutations at peak fitness (i.e., following the completion of the simulation we used for the spring 2024 poster). Given these
+  mutations will be random, there is no need to make sure they are deleterious (since it is at peak fitness, a number of random mutations will move it off peak fitness- having the same effect as deleterious mutations)
 
 21 February 2024
   Today we talked about the unisexual vertebrate perspective paper and potentially adding simulated data to it.
