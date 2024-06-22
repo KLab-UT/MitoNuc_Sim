@@ -1,5 +1,10 @@
+20 June 2024
+  Action plan:
+    1. Increase mito mutation rate to 20x that of the autosomal mutation rate
+    2. Loading the genomes with fixed mutations
+
 6 June 2024
-  William created a new file that has a toggle ability to change the mitochondrial gene into an autome (it becomes diploid and biparentally inherited). Additionally, he added haploid asex as a second model. This file is called MitoToggle.slim..
+  William created a new file that has a toggle ability to change the mitochondrial gene into an autosome (it becomes diploid and biparentally inherited). Additionally, he added haploid asex as another model. This file is called MitoToggle.slim..
   Now the next challenge is starting the simulation with a number of deleterious mutations that are fixed in the mitochondrial genome and need to be compensated for in the nuclear genome, and we measure this by seeing how long it takes to maximize do so for the different repro modes. So for next week, William will see if he can load the mitochondrial genomes with fixed mutations at peak fitness (i.e., following the completion of the simulation we used for the spring 2024 poster). Given these
   mutations will be random, there is no need to make sure they are deleterious (since it is at peak fitness, a number of random mutations will move it off peak fitness- having the same effect as deleterious mutations)
 
