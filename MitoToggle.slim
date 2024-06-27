@@ -2,7 +2,7 @@
 initialize() {
 	initializeMutationRate(2e-8);
 	
-	defineConstant("reproMode","Herm");
+	defineConstant("reproMode","Sex");
 	defineConstant("mito",T);
 	
 	if (reproMode == "Sex"){initializeSex("A");}
@@ -93,14 +93,10 @@ mutationEffect(m4){return 1.0;}
  		cat("\n");
  	}
  	
- 	//if (abs(2-meanFitness)<0.01){
-	// 	cat("End Time: " + sim.cycle);
- 	//	sim.simulationFinished();
- 	//}
+ 	if (abs(2-meanFitness)<0.01){
+	 	cat("End Time: " + sim.cycle);
+ 		sim.simulationFinished();
+ 	}
 }
 
-10000 late(){
-	p1.individuals.genomes.addNewDrawnMutation(m4,rdunif(100,50000,99999));
-}
-
-11000 late() {}
+100000 late() {}
