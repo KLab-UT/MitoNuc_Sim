@@ -2,8 +2,10 @@
 initialize() {
 	initializeMutationRate(2e-8);
 	
-	defineConstant("reproMode","Herm");
+	defineConstant("reproMode","Asex");
 	defineConstant("mito",T);
+	
+	//reachedPeak = F;
 	
 	if (reproMode == "Sex"){initializeSex("A");}
 	
@@ -100,7 +102,11 @@ mutationEffect(m4){return 1.0;}
 }
 
 10000 late(){
+	//if (abs(2-mean(sim.subpopulations.individuals.fitnessScaling))<0.01){reachedPeak = T;}
 	p1.individuals.genomes.addNewDrawnMutation(m4,rdunif(100,50000,99999));
 }
 
-11000 late() {}
+11000 late() {
+	cat("Final fitness: " + mean(sim.subpopulations.individuals.fitnessScaling));
+	//cat("Reached peak fitness: " + str(reachedPeak));
+}
