@@ -1,11 +1,12 @@
-// set up a simple neutral simulation
+
 initialize() {
 	initializeMutationRate(2e-8);
 	
-	defineConstant("reproMode","Asex");
+	defineConstant("reproMode","Herm");
 	defineConstant("mito",T);
 	
 	//reachedPeak = F;
+	//timeToEnd = 100;
 	
 	if (reproMode == "Sex"){initializeSex("A");}
 	
@@ -16,9 +17,11 @@ initialize() {
 	// Mitochondrial mutations
 	initializeMutationType("m2", 1, "f", 0.0);
 	initializeMutationType("m4", 1, "n", 0.0,0.25);
+	initializeMutationType("m5", 1, "n", 1.0,0.5);
 	
 	m3.convertToSubstitution = F;
 	m4.convertToSubstitution = F;
+	m5.convertToSubstitution = F;
 	
 	// Autosome
 	initializeGenomicElementType("g1", c(m1,m3), c(1.0,0.02));
@@ -66,6 +69,7 @@ early() {
 
 mutationEffect(m3){return 1.0;}
 mutationEffect(m4){return 1.0;}
+mutationEffect(m5){return 1.0;}
 
 1: late() {
 
@@ -78,7 +82,8 @@ mutationEffect(m4){return 1.0;}
 	
 	inds = sim.subpopulations.individuals;
  	nuclearMito = haploidMultiplier*inds.sumOfMutationsOfType(m3);
- 	mitoMito = haploidMultiplier*inds.sumOfMutationsOfType(m4);
+ 	mitoMito = haploidMultiplier*inds.sumOfMutationsOfType(m4) +  
+ 	                             inds.sumOfMutationsOfType(m5);
  	optimum = 50;
  	phenotype = nuclearMito*mitoMito;
  	inds.fitnessScaling = 0.0 + 2*dnorm(optimum - phenotype, 0.0, 25.0)/dnorm(0.0,0.0,25.0);
@@ -101,12 +106,20 @@ mutationEffect(m4){return 1.0;}
  	//}
 }
 
-10000 late(){
-	//if (abs(2-mean(sim.subpopulations.individuals.fitnessScaling))<0.01){reachedPeak = T;}
-	p1.individuals.genomes.addNewDrawnMutation(m4,rdunif(100,50000,99999));
+1 late(){
+	//if (abs(2-mean(sim.subpopulations.individuals.fitnessScaling))<0.01){//reachedPeak = T;
+	p1.individuals.genomes.addNewDrawnMutation(m3,rdunif(20,00000,59999));	
+	p1.individuals.genomes.addNewDrawnMutation(m4,rdunif(20,50000,99999));
 }
 
-11000 late() {
+10000 late(){
+	if (abs(2-mean(sim.subpopulations.individuals.fitnessScaling))<0.015){
+	cat("reached peak fitness \n\n");}//reachedPeak = T;}
+	
+	p1.individuals.genomes.addNewDrawnMutation(m5,rdunif(5,50000,99999));//}
+}
+
+10500 late() {
 	cat("Final fitness: " + mean(sim.subpopulations.individuals.fitnessScaling));
 	//cat("Reached peak fitness: " + str(reachedPeak));
 }
