@@ -1,0 +1,2000 @@
+// Initial random seed:
+2146325429926
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 68785
+// Initial random seed:
+2146395439637
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 78197
+// Initial random seed:
+2146485451646
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 91480
+// Initial random seed:
+2146585464674
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 36949
+// Initial random seed:
+2146615472078
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 101689
+// Initial random seed:
+2146725483554
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 76293
+// Initial random seed:
+2147165499003
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 197621
+// Initial random seed:
+2147575525589
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 53062
+// Initial random seed:
+2147635532968
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 36583
+// Initial random seed:
+2147985540302
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 29312
+// Initial random seed:
+2148005544252
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 35181
+// Initial random seed:
+2148195550016
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 69904
+// Initial random seed:
+2148265563107
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 102461
+// Initial random seed:
+2148305576326
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 22174
+// Initial random seed:
+2148315581198
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 44768
+// Initial random seed:
+2148355590778
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 26888
+// Initial random seed:
+2148565595385
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 73694
+// Initial random seed:
+2148665605512
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 79610
+// Initial random seed:
+2148815616405
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 76686
+// Initial random seed:
+2148905641727
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 122099
+// Initial random seed:
+2148945656522
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 43094
+// Initial random seed:
+2149405663287
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 60204
+// Initial random seed:
+2149555670895
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 26295
+// Initial random seed:
+2149575676510
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 48666
+// Initial random seed:
+2149795683064
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 65119
+// Initial random seed:
+2150035704465
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 81287
+// Initial random seed:
+2150095717676
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 77352
+// Initial random seed:
+2150135727590
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 147891
+// Initial random seed:
+2150735759953
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 78725
+// Initial random seed:
+2150935769388
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 38906
+// Initial random seed:
+2150965775536
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 73543
+// Initial random seed:
+2151005785441
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 70313
+// Initial random seed:
+2151085795591
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 57408
+// Initial random seed:
+2151175807448
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 65708
+// Initial random seed:
+2151235817616
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 64011
+// Initial random seed:
+2151355837515
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 97953
+// Initial random seed:
+2151815850452
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 48395
+// Initial random seed:
+2151845858493
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 102927
+// Initial random seed:
+2152035871014
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 150437
+// Initial random seed:
+2152275887211
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 25148
+// Initial random seed:
+2152305893882
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 72536
+// Initial random seed:
+2152525905915
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 32992
+// Initial random seed:
+2152535912110
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 124291
+// Initial random seed:
+2152605926061
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 90621
+// Initial random seed:
+2152805938235
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 60480
+// Initial random seed:
+2152835945832
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 117715
+// Initial random seed:
+2153275963356
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 56326
+// Initial random seed:
+2153475973902
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 93073
+// Initial random seed:
+2153675983746
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 84352
+// Initial random seed:
+2153735995131
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 32013
+// Initial random seed:
+2153766001382
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 72184
+// Initial random seed:
+2153786009462
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 104194
+// Initial random seed:
+2153896024951
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 20704
+// Initial random seed:
+2153906028443
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 39552
+// Initial random seed:
+2153936033817
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 64407
+// Initial random seed:
+2153986042325
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 36100
+// Initial random seed:
+2154016046877
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 62473
+// Initial random seed:
+2154056059858
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 55126
+// Initial random seed:
+2154076067726
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 45931
+// Initial random seed:
+2154126073616
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 56728
+// Initial random seed:
+2154176082278
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 187377
+// Initial random seed:
+2154236102047
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 34640
+// Initial random seed:
+2154256107698
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 133932
+// Initial random seed:
+2154306122176
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 73662
+// Initial random seed:
+2154336131112
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 51123
+// Initial random seed:
+2154496140208
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 25408
+// Initial random seed:
+2154506144974
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 127008
+// Initial random seed:
+2154546158606
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 91671
+// Initial random seed:
+2154656170340
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 70740
+// Initial random seed:
+2154676178523
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 64266
+// Initial random seed:
+2154866186833
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 48653
+// Initial random seed:
+2154926194871
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 87600
+// Initial random seed:
+2155056207036
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 153653
+// Initial random seed:
+2155286224257
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 36340
+// Initial random seed:
+2155326229742
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 118017
+// Initial random seed:
+2155366244700
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 160173
+// Initial random seed:
+2156146315618
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 34217
+// Initial random seed:
+2156156321871
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 41252
+// Initial random seed:
+2156196328199
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 187205
+// Initial random seed:
+2156336348853
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 78985
+// Initial random seed:
+2156366357829
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 37675
+// Initial random seed:
+2156396364711
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 133231
+// Initial random seed:
+2157376383593
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 215585
+// Initial random seed:
+2157596405318
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 108190
+// Initial random seed:
+2157636418178
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 51064
+// Initial random seed:
+2157676426293
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 64561
+// Initial random seed:
+2157976438124
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 59794
+// Initial random seed:
+2157996447908
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 128536
+// Initial random seed:
+2158146462634
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 80997
+// Initial random seed:
+2158196475198
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 63971
+// Initial random seed:
+2158476484312
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 195505
+// Initial random seed:
+2158526505230
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 27190
+// Initial random seed:
+2158556509964
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 121908
+// Initial random seed:
+2158616525682
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 23648
+// Initial random seed:
+2158646531179
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 95266
+// Initial random seed:
+2158676543180
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 81692
+// Initial random seed:
+2158766554581
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 54305
+// Initial random seed:
+2159126562822
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 20684
+// Initial random seed:
+2159146566585
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 29609
+// Initial random seed:
+2159176573302
+
+// RunInitializeCallbacks():
+initializeMutationRate(2e-08);
+initializeSex("A");
+initializeMutationType(1, 0.5, "f", 0);
+initializeMutationType(3, 0.5, "n", 0, 0.25);
+initializeMutationType(2, 1, "f", 0);
+initializeMutationType(4, 1, "n", 0, 0.25);
+initializeGenomicElementType(1, c(m1, m3), c(1, 0.02));
+initializeGenomicElementType(2, c(m2, m4), c(1, 0.02));
+initializeGenomicElement(g1, 0, 49999);
+initializeGenomicElement(g2, 50000, 99999);
+initializeRecombinationRate(c(1e-06, 0.5, 1e-06), c(49999, 50000, 99999));
+
+// Starting run at tick <start>:
+1 
+
+End Time: 44521

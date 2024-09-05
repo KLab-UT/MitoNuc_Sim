@@ -1,5 +1,5 @@
 for i in {1..100}
 do
-slim SingleComplexModel_Sex.slim >> Sex_log.txt
+slim PeakFitness_sex.slim >> PeakFitness_sex_log.txt
 done
 
