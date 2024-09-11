@@ -19,10 +19,10 @@ initialize() {
 	m4.convertToSubstitution = F;
 	
 	// Autosome
-	initializeGenomicElementType("g1", c(m1,m3), c(1.0,0.2));
+	initializeGenomicElementType("g1", c(m1,m3), c(1.0,0.02));
 	// Mitochondrion
-	if (mito){initializeGenomicElementType("g2", c(m2,m4), c(1.0,0.2));}
-	else     {initializeGenomicElementType("g2", c(m2,m4), c(1.0,0.2));}
+	if (mito){initializeGenomicElementType("g2", c(m2,m4), c(1.0,0.02));}
+	else     {initializeGenomicElementType("g2", c(m2,m4), c(1.0,0.02));}
 	
 	initializeGenomicElement(g1, 0, 49999);
 	initializeGenomicElement(g2, 50000, 99999);
