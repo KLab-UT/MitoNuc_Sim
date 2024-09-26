@@ -1,3 +1,10 @@
+17 Sept 2024
+  Some questions/thoughts from Randy:
+    Why is the dominance coefficient for the autosomes 0.5 and for the mitochondria 0.1? Is that related to ploidy? Should the mutations of varying selection coefficients be centered on a negative number rather than 0? This may be the reason we see no difference in the mito models- the mito mutation type is so much more frequent (20x more than autosomal [1.55 vs 0.02]), and given that half of the mutations will have positive fitness impact of the mitochondrion is eclipsing that of the nucleus.
+    Although this doesn't explain why the mito-adj model would result in a decreased time to peak fitness for the Asex model and an increased time to peak fitness in the Sex model...
+    For the initializeRecombinationRates method, does the trailing 0 on the mito rates vector mean anything?
+
+
 27 June 2024
   William changed the mito mutation and nuclear mutation rates by doing the following: The ratio of nuclear mutations that have an effect on fitness is 1:0.02, and the ratio of mitochondrial mutations that have an effect on fitness is 1:1.55. This means that mitochondrial mutations that have an effect on fitness appear at 20x the rate of nuclear mutations.
   Action plan:

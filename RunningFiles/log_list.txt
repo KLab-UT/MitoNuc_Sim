@@ -1,0 +1,15 @@
+Asex_auto_PeakFitness_log
+Asex_mito-adj_PeakFitness_log
+Asex_mito_PeakFitness_log
+Haploid_auto_PeakFitness_log
+Haploid_mito-adj_PeakFitness_log
+Haploid_mito_PeakFitness_log
+Herm_auto_PeakFitness_log
+Herm_mito-adj_PeakFitness_log
+Herm_mito_PeakFitness_log
+Self_auto_PeakFitness_log
+Self_mito-adj_PeakFitness_log
+Self_mito_PeakFitness_log
+Sex_auto_PeakFitness_log
+Sex_mito-adj_PeakFitness_log
+Sex_mito_PeakFitness_log
