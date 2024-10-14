@@ -5,6 +5,9 @@ initialize() {
 	defineConstant("reproMode","Asex");
 	defineConstant("mito",T);
 	
+	defineConstant("mitobias",0.1);
+	defineConstant("autobias",0.);
+	
 	if (reproMode == "Sex"){initializeSex("A");}
 	
 	// Autosomal mutations
@@ -13,7 +16,8 @@ initialize() {
 	
 	// Mitochondrial mutations
 	initializeMutationType("m2", 1, "f", 0.0);
-	initializeMutationType("m4", 1, "n", 0.0,0.25);
+	if (mito){initializeMutationType("m4", 1, "n", mitobias,0.25);}
+	else {initializeMutationType("m4", 1, "n", autobias,0.25);}
 	
 	m3.convertToSubstitution = F;
 	m4.convertToSubstitution = F;
